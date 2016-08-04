@@ -1,5 +1,10 @@
 # dm12-useful-links
 
+
+#Advanced HTML/CSS special group:
+Link to all workshops + links to repos with solution code
+https://docs.google.com/spreadsheets/d/1KTOws8hycsFBgSVsRl1lr78og8B-dVkeXCtpf16f40E/edit?usp=sharing
+
 Password Strength video
 https://www.youtube.com/watch?v=8ZtInClXe1Q
 
