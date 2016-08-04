@@ -17,3 +17,6 @@ http://sqlbolt.com/lesson/introduction
 
 Install PostGres on Windows:
 https://github.com/craig1123/PostgreSQL-installation
+
+Video Game for SQL:
+https://schemaverse.com/
