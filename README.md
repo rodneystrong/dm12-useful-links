@@ -8,6 +8,9 @@ https://massive-js.readthedocs.io/en/latest/
 I did some review of node today and found netninja's node videos helpful. Most helpful for me were numbers 1, 3, 6, 7, 23, 24, 28, 29, and 30. https
 https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists
 
+Intro to Node.js with Express.js
+https://www.youtube.com/watch?v=FqMIyTH9wSg&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh&index=2
+
 SQL Tutorial for Beginners
 https://www.youtube.com/watch?v=xaWlS9HtWYw
 
