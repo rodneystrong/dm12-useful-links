@@ -39,7 +39,7 @@ Video Game for SQL:
 https://schemaverse.com/
 _thanks to donovan hiland_
 
-
+##VIM
 Vim Adventures
 http://vim-adventures.com/
 _thanks to moi_
@@ -47,3 +47,11 @@ _thanks to moi_
 Vim Gifs. Using a file format from the 80s to explain a text editor from the 70s.
 _thanks to moi_
 https://twitter.com/vimgifs
+
+Shit ton of VIM links
+http://vimgolf.com/ 
+http://vimcasts.org/ 
+http://www.openvim.com/tutorial.html 
+http://usevim.com/ 
+http://designbytyping.com/ 
+_thanks to moi_
