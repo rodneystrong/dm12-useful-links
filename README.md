@@ -1,7 +1,7 @@
 # dm12-useful-links
 
 
-#Advanced HTML/CSS special group:
+##Advanced HTML/CSS special group:
 Link to all workshops + links to repos with solution code
 https://docs.google.com/spreadsheets/d/1KTOws8hycsFBgSVsRl1lr78og8B-dVkeXCtpf16f40E/edit?usp=sharing
 _thanks to spencer kekauoha!_
@@ -38,3 +38,12 @@ _thanks to craig walker_
 Video Game for SQL:
 https://schemaverse.com/
 _thanks to donovan hiland_
+
+
+Vim Adventures
+http://vim-adventures.com/
+_thanks to moi_
+
+Vim Gifs. Using a file format from the 80s to explain a text editor from the 70s.
+_thanks to moi_
+https://twitter.com/vimgifs
