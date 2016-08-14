@@ -65,3 +65,7 @@ _thanks to moi_
 Password Strength video
 https://www.youtube.com/watch?v=8ZtInClXe1Q
 _thanks to josh peterson_
+
+Quickly find the difference between your code and someone elses
+https://text-compare.com/
+_thanks to candice humpherys_
