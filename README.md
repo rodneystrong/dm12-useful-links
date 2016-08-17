@@ -82,3 +82,15 @@ _thanks to candice humpherys
 Quickly find the difference between your code and someone elses
 https://text-compare.com/
 _thanks to candice humpherys_
+
+Shopping cart solution with just code, no CMS necessary
+https://snipcart.com/
+_thanks to moi_
+
+Grav CMS: New type of CMS made completely with Javascript
+https://getgrav.org/
+_thanks to moi_
+
+Shopping cart plugin for Grav
+https://getgrav.org/blog/snipcart-plugin
+_thanks to moi_
