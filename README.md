@@ -61,10 +61,23 @@ http://usevim.com/
 http://designbytyping.com/ 
 _thanks to moi_
 
+#Authentication/Security/lulsec
+Github gist on authentication via twitter
+https://gist.github.com/cahlan/530f839fbfb2737d0647
+_thanks to jeremy_
+
 ##Random
 Password Strength video
 https://www.youtube.com/watch?v=8ZtInClXe1Q
 _thanks to josh peterson_
+
+Site for technical interview prep, broken down by language
+http://www.thatjsdude.com/interview/
+_thanks to john hicks_
+
+If you're looking for pretty and customizable (and EASY) alerts:
+http://alertifyjs.com/
+_thanks to candice humpherys
 
 Quickly find the difference between your code and someone elses
 https://text-compare.com/
