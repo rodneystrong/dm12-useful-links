@@ -61,10 +61,22 @@ http://usevim.com/
 http://designbytyping.com/ 
 _thanks to moi_
 
-#Authentication/Security/lulsec
+Authentication/Security/lulsec
 Github gist on authentication via twitter
 https://gist.github.com/cahlan/530f839fbfb2737d0647
 _thanks to jeremy_
+
+##Design stuff
+
+Pages with popular social media icons
+http://shalinguyen.github.io/socialicious/
+_thanks to moi_
+
+https://simpleicons.org/
+_thanks to moi_
+
+http://www.flaticon.com/
+
 
 ##Random
 Password Strength video
