@@ -110,3 +110,15 @@ _thanks to moi_
 How to color your Mac Terminal Prompt (and also customize what shows up)
 https://github.com/jimeh/git-aware-prompt
 _thanks to moi_
+
+How developers are writing their own paychecks
+https://www.indiehackers.com/businesses
+_thanks to moi_
+
+JibberJobber: a tool for job seekers and recruiters to organize the hunt and manage a professional network
+http://www.jibberjobber.com/login.php
+_thanks to moi_
+
+JS Interview Review
+https://github.com/adam-s/js-interview-review
+_thanks to moi_
