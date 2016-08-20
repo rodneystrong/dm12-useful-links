@@ -6,6 +6,12 @@ Link to all workshops + links to repos with solution code
 https://docs.google.com/spreadsheets/d/1KTOws8hycsFBgSVsRl1lr78og8B-dVkeXCtpf16f40E/edit?usp=sharing
 _thanks to spencer kekauoha_
 
+##Javascript
+
+JS Fundamentals slide presentation
+https://slides.com/jeremyrobertson/deck-4/live#/
+_thanks to jeremy robertson_
+
 ##Angular
 AngularJS Best Practices: Directory Structure
 https://scotch.io/tutorials/angularjs-best-practices-directory-structure
@@ -15,7 +21,6 @@ https://massive-js.readthedocs.io/en/latest/
 _thanks to jonathan junca_
 
 ##Node.js
-
 I did some review of node today and found netninja's node videos helpful. Most helpful for me were numbers 1, 3, 6, 7, 23, 24, 28, 29, and 30. https
 https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists
 _thanks to brandon unbedacht_
@@ -44,7 +49,20 @@ Video Game for SQL:
 https://schemaverse.com/
 _thanks to donovan hiland_
 
+##Websockets
+
+BrowserQuest: html5 multiplayer game powered by WebSockets
+http://browserquest.mozilla.org/
+_thanks to jeremy roberston_
+
+##Regex
+
+RegexOne: Learn RegEx with simple interactive exercises
+https://regexone.com/
+_thanks to cameron gale_
+
 ##VIM
+
 Vim Adventures
 http://vim-adventures.com/
 _thanks to moi_
