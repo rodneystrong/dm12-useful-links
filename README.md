@@ -25,6 +25,10 @@ I did some review of node today and found netninja's node videos helpful. Most h
 https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists
 _thanks to brandon unbedacht_
 
+Learn Node.JS with a bunny
+https://medium.freecodecamp.com/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108#.ygxt6fhfa
+_thanks to moi_
+
 Intro to Node.js with Express.js
 https://www.youtube.com/watch?v=FqMIyTH9wSg&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh&index=2
 _thanks to steve isbell_
