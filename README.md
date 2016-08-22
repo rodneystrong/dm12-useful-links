@@ -42,6 +42,11 @@ _thanks to lonnie mcgill_
 https://www.sqlteaching.com/
 _thanks to craig walker_
 
+###PostGres
+Gettin started with PostGres
+http://www.tutorialspoint.com/postgresql/postgresql_create_database.htm
+_thanks to michael davis_
+
 http://sqlbolt.com/lesson/introduction
 _thanks to spencer kekauoha_
 
