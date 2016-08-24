@@ -24,6 +24,10 @@ Book on D3.JS
 http://chimera.labs.oreilly.com/books/1230000000345/ch05.html
 _thanks to craig walker_
 
+Getting started with Gulp
+https://travismaynard.com/writing/getting-started-with-gulp?utm_medium=email&utm_source=jsfiddle
+_thanks to moi_
+
 ##Angular
 AngularJS Best Practices: Directory Structure
 https://scotch.io/tutorials/angularjs-best-practices-directory-structure
