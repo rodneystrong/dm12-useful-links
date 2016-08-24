@@ -28,6 +28,10 @@ Getting started with Gulp
 https://travismaynard.com/writing/getting-started-with-gulp?utm_medium=email&utm_source=jsfiddle
 _thanks to moi_
 
+Introduction to Gulp via Sitepoint (another decent gulp tutorial)
+https://www.sitepoint.com/introduction-gulp-js/
+_thanks to moi_
+
 ##Angular
 AngularJS Best Practices: Directory Structure
 https://scotch.io/tutorials/angularjs-best-practices-directory-structure
