@@ -12,6 +12,14 @@ JS Fundamentals slide presentation
 https://slides.com/jeremyrobertson/deck-4/live#/
 _thanks to jeremy robertson_
 
+D3.JS repo
+https://github.com/craig1123/d3-mini-lecture
+_thanks to craig walker_
+
+Book on D3.JS
+http://chimera.labs.oreilly.com/books/1230000000345/ch05.html
+_thanks to craig walker_
+
 ##Angular
 AngularJS Best Practices: Directory Structure
 https://scotch.io/tutorials/angularjs-best-practices-directory-structure
