@@ -154,6 +154,10 @@ Shopping cart plugin for Grav
 https://getgrav.org/blog/snipcart-plugin
 _thanks to moi_
 
+Example/Demo repo for implementing Stripe checkout
+https://github.com/asBrettisay/animated-octo-waffle
+_thanks to brett caudill_
+
 How to color your Mac Terminal Prompt (and also customize what shows up)
 https://github.com/jimeh/git-aware-prompt
 _thanks to moi_
