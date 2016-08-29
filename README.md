@@ -16,6 +16,10 @@ Another explanation on prototypes, constructors, apply() and call()
 http://tobyho.com/2010/11/22/javascript-constructors-and/
 _thanks to moi_
 
+Understanding Closures
+https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.id50rmmu6
+_thanks to moi_
+
 D3.JS repo
 https://github.com/craig1123/d3-mini-lecture
 _thanks to craig walker_
