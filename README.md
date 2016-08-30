@@ -8,90 +8,96 @@ _thanks to spencer kekauoha_
 
 ##Javascript
 
-JS Fundamentals slide presentation  
+**JS Fundamentals slide presentation**  
 https://slides.com/jeremyrobertson/deck-4/live#/  
 _thanks to jeremy robertson_
 
-Another explanation on prototypes, constructors, apply() and call()  
+**Another explanation on prototypes, constructors, apply() and call()**  
 http://tobyho.com/2010/11/22/javascript-constructors-and/  
 _thanks to moi_
 
-Understanding Closures
-https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.id50rmmu6
+**Understanding Closures**  
+https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.id50rmmu6  
 _thanks to moi_
 
-D3.JS repo
-https://github.com/craig1123/d3-mini-lecture
+**D3.JS repo**  
+https://github.com/craig1123/d3-mini-lecture  
 _thanks to craig walker_
 
-Book on D3.JS
-http://chimera.labs.oreilly.com/books/1230000000345/ch05.html
+**Book on D3.JS**  
+http://chimera.labs.oreilly.com/books/1230000000345/ch05.html  
 _thanks to craig walker_
 
-Getting started with Gulp
-https://travismaynard.com/writing/getting-started-with-gulp?utm_medium=email&utm_source=jsfiddle
+**Getting started with Gulp**  
+https://travismaynard.com/writing/getting-started-with-gulp?utm_medium=email&utm_source=jsfiddle  
 _thanks to moi_
 
-Introduction to Gulp via Sitepoint (another decent gulp tutorial)
-https://www.sitepoint.com/introduction-gulp-js/
+**Introduction to Gulp via Sitepoint (another decent gulp tutorial)**  
+https://www.sitepoint.com/introduction-gulp-js/  
 _thanks to moi_
 
 ##Angular
-AngularJS Best Practices: Directory Structure
-https://scotch.io/tutorials/angularjs-best-practices-directory-structure
+**AngularJS Best Practices: Directory Structure**  
+https://scotch.io/tutorials/angularjs-best-practices-directory-structure  
 _thanks to noelle reid_
 
-https://massive-js.readthedocs.io/en/latest/
+**MassiveJS Docs**  
+https://massive-js.readthedocs.io/en/latest/  
 _thanks to jonathan junca_
 
 ##Node.js
-I did some review of node today and found netninja's node videos helpful. Most helpful for me were numbers 1, 3, 6, 7, 23, 24, 28, 29, and 30. https
-https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists
+**I did some review of node today and found netninja's node videos helpful. Most helpful for me were numbers 1, 3, 6, 7, 23, 24, 28, 29, and 30. https**  
+https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists  
 _thanks to brandon unbedacht_
 
-Learn Node.JS with a bunny
-https://medium.freecodecamp.com/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108#.ygxt6fhfa
+**Learn Node.JS with a bunny**  
+https://medium.freecodecamp.com/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108#.ygxt6fhfa  
 _thanks to moi_
 
-Intro to Node.js with Express.js
-https://www.youtube.com/watch?v=FqMIyTH9wSg&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh&index=2
+**Intro to Node.js with Express.js**  
+https://www.youtube.com/watch?v=FqMIyTH9wSg&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh&index=2  
 _thanks to steve isbell_
 
 ##SQL
 
-SQL Tutorial for Beginners
-https://www.youtube.com/watch?v=xaWlS9HtWYw
+**SQL Tutorial for Beginners**  
+https://www.youtube.com/watch?v=xaWlS9HtWYw  
 _thanks to lonnie mcgill_
 
-https://www.sqlteaching.com/
+**SQL teaching site**  
+https://www.sqlteaching.com/  
 _thanks to craig walker_
 
 ###PostGres
-Gettin started with PostGres
-http://www.tutorialspoint.com/postgresql/postgresql_create_database.htm
+**Gettin started with PostGres**  
+http://www.tutorialspoint.com/postgresql/postgresql_create_database.htm  
 _thanks to michael davis_
 
-http://sqlbolt.com/lesson/introduction
+http://sqlbolt.com/lesson/introduction  
 _thanks to spencer kekauoha_
 
-Install PostGres on Windows:
-https://github.com/craig1123/PostgreSQL-installation
+**Install PostGres on Windows:**  
+https://github.com/craig1123/PostgreSQL-installation  
 _thanks to craig walker_
 
-Video Game for SQL:
-https://schemaverse.com/
+**Video Game for SQL:**  
+https://schemaverse.com/  
 _thanks to donovan hiland_
 
-##Websockets
+##ReactJS
+**ReactJS from learncode.academy**  
+https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b  
+_thanks to james lemire_
 
-BrowserQuest: html5 multiplayer game powered by WebSockets
-http://browserquest.mozilla.org/
+##Websockets
+**BrowserQuest: html5 multiplayer game powered by WebSockets**  
+http://browserquest.mozilla.org/  
 _thanks to jeremy roberston_
 
 ##Regex
 
-RegexOne: Learn RegEx with simple interactive exercises
-https://regexone.com/
+**RegexOne: Learn RegEx with simple interactive exercises**  
+https://regexone.com/  
 _thanks to cameron gale_
 
 ##VIM
@@ -101,8 +107,8 @@ http://vim-adventures.com/
 _thanks to moi_
 
 Vim Gifs. Using a file format from the 80s to explain a text editor from the 70s.
-_thanks to moi_
 https://twitter.com/vimgifs
+_thanks to moi_
 
 Shit ton of VIM links
 http://vimgolf.com/ 
@@ -110,12 +116,12 @@ http://vimcasts.org/
 http://www.openvim.com/tutorial.html 
 http://usevim.com/ 
 http://designbytyping.com/ 
-_thanks to moi_
+_thanks to zac anger_
 
-Authentication/Security/lulsec
-Github gist on authentication via twitter
-https://gist.github.com/cahlan/530f839fbfb2737d0647
-_thanks to jeremy_
+##Authentication/Security/lulsec
+**Github gist on authentication via twitter**  
+https://gist.github.com/cahlan/530f839fbfb2737d0647  
+_thanks to jeremy robertson_
 
 ##Design stuff
 
@@ -183,7 +189,6 @@ http://www.beautifyconverter.com/
 _thanks to moi_
 
 ##Class lecture links/projects that weren't posted to the calendar (so annoying)
-
 SQL Day1 + 2
 https://github.com/kendagriff/sql-course
 
