@@ -127,7 +127,7 @@ https://simpleicons.org/
 _thanks to moi_
 
 http://www.flaticon.com/
-
+_thanks to moi_
 
 ##Random
 Password Strength video
@@ -181,3 +181,31 @@ _thanks to moi_
 Beautify Converter: Convert and/or beautify HTML, CSS, JS, XML, JSON, etc
 http://www.beautifyconverter.com/
 _thanks to moi_
+
+##Class lecture links/projects that weren't posted to the calendar (so annoying)
+
+SQL Day1 + 2
+https://github.com/kendagriff/sql-course
+
+SQL Day 3
+https://github.com/kendagriff/massive-demo
+
+ReactJS Day 1
+https://github.com/dckesler/react_day_1
+https://github.com/devmountain/react-friends
+https://github.com/craig1123/react-day-1
+###dm10 ReactJS day 1
+https://github.com/bsbeeks/react-day-1
+
+ReactJS Day 2
+https://github.com/dckesler/react-day-two
+https://github.com/DevMountain/react-mail
+https://github.com/ngReact/ngReact
+###dm10 ReactJS day 2
+https://github.com/bsbeeks/react-day-2
+
+ReactJS Day 3
+https://github.com/devmountain/react-emporium
+https://github.com/devmountain/react-blog
+###dm10 ReactJS day 3
+https://github.com/bsbeeks/react-day-3
