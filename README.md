@@ -140,16 +140,20 @@ http://www.flaticon.com/
 _thanks to moi_
 
 ##Random
-Password Strength video
-https://www.youtube.com/watch?v=8ZtInClXe1Q
+**MashApe API Marketplace, a place to see all available APIs**
+https://market.mashape.com/explore?sort=developers
+_thanks to james lemire_
+
+**Password Strength video**  
+https://www.youtube.com/watch?v=8ZtInClXe1Q  
 _thanks to josh peterson_
 
-Site for technical interview prep, broken down by language
-http://www.thatjsdude.com/interview/
+**Site for technical interview prep, broken down by language**  
+http://www.thatjsdude.com/interview/  
 _thanks to john hicks_
 
-If you're looking for pretty and customizable (and EASY) alerts:
-http://alertifyjs.com/
+**If you're looking for pretty and customizable (and EASY) alerts:**  
+http://alertifyjs.com/  
 _thanks to candice humpherys
 
 Quickly find the difference between your code and someone elses
