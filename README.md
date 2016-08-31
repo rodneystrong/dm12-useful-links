@@ -89,6 +89,10 @@ _thanks to donovan hiland_
 https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b  
 _thanks to james lemire_
 
+Debugging React with Chrome
+https://medium.com/@DcKesler/debugging-react-with-chrome-871f59229f62#.pyfj9y6d1
+_thanks to daniel kesler_
+
 ##Websockets
 **BrowserQuest: html5 multiplayer game powered by WebSockets**  
 http://browserquest.mozilla.org/  
@@ -164,53 +168,59 @@ Shopping cart plugin for Grav
 https://getgrav.org/blog/snipcart-plugin
 _thanks to moi_
 
-Example/Demo repo for implementing Stripe checkout
-https://github.com/asBrettisay/animated-octo-waffle
+**Example/Demo repo for implementing Stripe checkout**  
+https://github.com/asBrettisay/animated-octo-waffle  
 _thanks to brett caudill_
 
-How to color your Mac Terminal Prompt (and also customize what shows up)
-https://github.com/jimeh/git-aware-prompt
+**How to color your Mac Terminal Prompt (and also customize what shows up)**  
+https://github.com/jimeh/git-aware-prompt  
 _thanks to moi_
 
-How developers are writing their own paychecks
-https://www.indiehackers.com/businesses
+**How developers are writing their own paychecks**  
+https://www.indiehackers.com/businesses  
 _thanks to moi_
 
-JibberJobber: a tool for job seekers and recruiters to organize the hunt and manage a professional network
-http://www.jibberjobber.com/login.php
+**JibberJobber: a tool for job seekers and recruiters to organize the hunt and manage a professional network**  
+http://www.jibberjobber.com/login.php  
 _thanks to moi_
 
 JS Interview Review
-https://github.com/adam-s/js-interview-review
+https://github.com/adam-s/js-interview-review  
 _thanks to moi_
 
-Beautify Converter: Convert and/or beautify HTML, CSS, JS, XML, JSON, etc
-http://www.beautifyconverter.com/
+Beautify Converter: Convert and/or beautify HTML, CSS, JS, XML, JSON, etc  
+http://www.beautifyconverter.com/  
 _thanks to moi_
 
 ##Class lecture links/projects that weren't posted to the calendar (so annoying)
 SQL Day1 + 2
-https://github.com/kendagriff/sql-course
+https://github.com/kendagriff/sql-course  
 
 SQL Day 3
-https://github.com/kendagriff/massive-demo
+https://github.com/kendagriff/massive-demo  
 
 ReactJS Day 1
-https://github.com/dckesler/react_day_1
-https://github.com/devmountain/react-friends
-https://github.com/craig1123/react-day-1
-###dm10 ReactJS day 1
-https://github.com/bsbeeks/react-day-1
+https://github.com/dckesler/react_day_1  
+https://github.com/devmountain/react-friends  
+https://github.com/craig1123/react-day-1  
+###dm10 ReactJS day 1  
+https://github.com/bsbeeks/react-day-1  
 
 ReactJS Day 2
-https://github.com/dckesler/react-day-two
-https://github.com/DevMountain/react-mail
-https://github.com/ngReact/ngReact
-###dm10 ReactJS day 2
-https://github.com/bsbeeks/react-day-2
+https://github.com/dckesler/react-day-two  
+https://github.com/DevMountain/react-mail  
+https://github.com/ngReact/ngReact  
+###dm10 ReactJS day 2  
+https://github.com/bsbeeks/react-day-2  
 
 ReactJS Day 3
-https://github.com/devmountain/react-emporium
-https://github.com/devmountain/react-blog
-###dm10 ReactJS day 3
-https://github.com/bsbeeks/react-day-3
+https://github.com/dckesler/react-day-three  
+####mini project
+https://github.com/dckesler/reactweather 
+####day project
+https://github.com/dckesler/dm12router  
+https://github.com/devmountain/react-emporium  
+https://github.com/devmountain/react-blog  
+
+###dm10 ReactJS day 3  
+https://github.com/bsbeeks/react-day-3  
