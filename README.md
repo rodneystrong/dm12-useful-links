@@ -140,6 +140,10 @@ http://www.flaticon.com/
 _thanks to moi_
 
 ##Random
+**Directory for all things Front End. Wow..**  
+https://frontend.directory  
+_thanks to moi_
+
 **MashApe API Marketplace, a place to see all available APIs**
 https://market.mashape.com/explore?sort=developers
 _thanks to james lemire_
