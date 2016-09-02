@@ -150,6 +150,15 @@ _thanks to moi_
 https://frontend.directory  
 _thanks to moi_
 
+###**Freelancer Shit**  
+**Beautifully designed wiki on all the deductions possible for a 1099 software dev**  
+https://99deductions.com/l/developer  
+_thanks to kelsy michael gagnebin_  
+
+**Automated tax savings for independent contractors** 
+https://painless1099.com/home  
+_thanks to kelsy michael gagnebin_  
+
 **MashApe API Marketplace, a place to see all available APIs**
 https://market.mashape.com/explore?sort=developers
 _thanks to james lemire_
