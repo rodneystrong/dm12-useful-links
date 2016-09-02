@@ -93,6 +93,12 @@ Debugging React with Chrome
 https://medium.com/@DcKesler/debugging-react-with-chrome-871f59229f62#.pyfj9y6d1
 _thanks to daniel kesler_
 
+##Angular 2 (the newest shit. from rc5 on up)
+**Angular 2 Fundamentals course**  
+http://courses.angularclass.com/courses/angular-2-fundamentals  
+https://github.com/AngularClass/retain-app  
+_thanks to moi_
+
 ##Websockets
 **BrowserQuest: html5 multiplayer game powered by WebSockets**  
 http://browserquest.mozilla.org/  
