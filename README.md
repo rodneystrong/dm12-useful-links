@@ -150,6 +150,19 @@ _thanks to moi_
 https://frontend.directory  
 _thanks to moi_
 
+**List of personal + no-server projects**  
+http://tberry30.github.io/weatherApp/#/home  
+https://blakehagen.github.io/futbolwatch/#/  
+DM8 Projects    
+https://docs.google.com/document/d/1JAJrFmGxQ9jLgCEl8UFGxW-JHErkNx0Kfi3gCJ8q8AM/edit#  
+DM9 Projects  
+https://docs.google.com/document/d/1VKQToZhSmbabNuumudTrQo5EK_Fo8y-JbAXeuDkF9ac/edit  
+DM10 Projects  
+https://docs.google.com/document/d/1dGUXvXhwto62X1u_EtkuNaMFqh3UjwNczf4XIH5Gb9k/edit  
+DM12 Projects  
+https://docs.google.com/document/d/1RMD9n3UXthFko8sZtnS80I1D21yLUhnx00bCovObNxU/edit  
+_thanks to jeremy roberston_  
+
 ###**Freelancer Shit**  
 **Beautifully designed wiki on all the deductions possible for a 1099 software dev**  
 https://99deductions.com/l/developer  
@@ -160,12 +173,12 @@ https://painless1099.com/home
 _thanks to kelsy michael gagnebin_  
 
 **MashApe API Marketplace, a place to see all available APIs**
-https://market.mashape.com/explore?sort=developers
-_thanks to james lemire_
+https://market.mashape.com/explore?sort=developers  
+_thanks to james lemire_  
 
 **Password Strength video**  
 https://www.youtube.com/watch?v=8ZtInClXe1Q  
-_thanks to josh peterson_
+_thanks to josh peterson_  
 
 **Site for technical interview prep, broken down by language**  
 http://www.thatjsdude.com/interview/  
@@ -175,13 +188,13 @@ _thanks to john hicks_
 http://alertifyjs.com/  
 _thanks to candice humpherys
 
-Quickly find the difference between your code and someone elses
-https://text-compare.com/
-_thanks to candice humpherys_
+**Quickly find the difference between your code and someone elses**  
+https://text-compare.com/  
+_thanks to candice humpherys_  
 
-Shopping cart solution with just code, no CMS necessary
-https://snipcart.com/
-_thanks to moi_
+**Shopping cart solution with just code, no CMS necessary**  
+https://snipcart.com/  
+_thanks to moi_  
 
 Grav CMS: New type of CMS made completely with Javascript
 https://getgrav.org/
