@@ -150,6 +150,10 @@ _thanks to moi_
 https://frontend.directory  
 _thanks to moi_
 
+**Insomnia REST Client, powerful REST API client with cookie management, environment variables, code generation + authentication**  
+https://insomnia.rest/  
+_thanks to ryan walsh_
+
 **List of personal + no-server projects**  
 http://tberry30.github.io/weatherApp/#/home  
 https://blakehagen.github.io/futbolwatch/#/  
