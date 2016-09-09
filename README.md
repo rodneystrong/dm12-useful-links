@@ -237,10 +237,15 @@ http://www.beautifyconverter.com/
 _thanks to moi_
 
 ##Class lecture links/projects that weren't posted to the calendar (so annoying)
-SQL Day1 + 2
+
+**List of vidoes from DM6 to DM10**
+https://docs.google.com/spreadsheets/d/1p9EzVLEFGf5Q40oL4gWrRyfPO_DTKO3VIDOT3ZQFvtI/edit?pref=2&pli=1#gid=1832617554  
+_thanks to moi_  
+
+**SQL Day1 + 2**  
 https://github.com/kendagriff/sql-course  
 
-SQL Day 3
+**SQL Day 3**  
 https://github.com/kendagriff/massive-demo  
 
 ReactJS Day 1
