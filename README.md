@@ -99,6 +99,10 @@ http://courses.angularclass.com/courses/angular-2-fundamentals
 https://github.com/AngularClass/retain-app  
 _thanks to moi_
 
+**How to use SASS in Angular 2 + CLI (global variables and what not)**  
+https://www.codementor.io/angularjs/tutorial/compiling-sass-postcss-with-angular-cli  
+_thanks to moi_
+
 ##Websockets
 **BrowserQuest: html5 multiplayer game powered by WebSockets**  
 http://browserquest.mozilla.org/  
