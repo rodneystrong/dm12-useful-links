@@ -139,6 +139,10 @@ _thanks to jeremy robertson_
 
 ##Design stuff
 
+**Flat design gallery + showcase: Inspirational resource**  
+http://flatinspire.com/  
+_thanks to moi_  
+
 Pages with popular social media icons
 http://shalinguyen.github.io/socialicious/
 _thanks to moi_
