@@ -166,6 +166,15 @@ _thanks to moi_
 https://insomnia.rest/  
 _thanks to ryan walsh_
 
+**Git Cheat Sheet and Guide**  
+http://rogerdudler.github.io/git-guide/  
+https://www.git-tower.com/blog/git-cheat-sheet/  
+_thanks to jeremy roberston_  
+
+**Linux Bash Shell Cheat Sheet**  
+https://refcard.files.wordpress.com/2012/03/bcs_72_21.png  
+_thanks to jeremy robertson_  
+
 **List of personal + no-server projects**  
 http://tberry30.github.io/weatherApp/#/home  
 https://blakehagen.github.io/futbolwatch/#/  
