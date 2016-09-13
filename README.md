@@ -205,6 +205,10 @@ _thanks to james lemire_
 https://www.youtube.com/watch?v=8ZtInClXe1Q  
 _thanks to josh peterson_  
 
+**Job Help Resources**  
+https://docs.google.com/spreadsheets/d/1y9Y6ZJcTNPDWV9sugP1VTKFNKvDJ8KW3FaOeJ89_Sa4/edit#gid=0  
+_thanks to craig walker_  
+
 **Site for technical interview prep, broken down by language**  
 http://www.thatjsdude.com/interview/  
 _thanks to john hicks_
