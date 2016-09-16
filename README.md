@@ -8,6 +8,10 @@ _thanks to spencer kekauoha_
 
 ##Javascript
 
+**List of 430+ free online programming courses with assignments**  
+https://www.reddit.com/r/learnprogramming/comments/50l1yt/heres_a_list_of_430_free_online_programmingcs/  
+_thanks to moi_  
+
 **JS Fundamentals slide presentation**  
 https://slides.com/jeremyrobertson/deck-4/live#/  
 _thanks to jeremy robertson_
