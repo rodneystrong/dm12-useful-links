@@ -296,5 +296,8 @@ https://github.com/dckesler/dm12router
 https://github.com/devmountain/react-emporium  
 https://github.com/devmountain/react-blog  
 
+**Big O Notation Day ?**  
+https://docs.google.com/presentation/d/1N4gSr_fDHrxNFVZA8JOYnX2mULfGhpQRbayspYBltYo/edit#slide=id.p
+
 ###dm10 ReactJS day 3  
 https://github.com/bsbeeks/react-day-3  
