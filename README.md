@@ -49,6 +49,10 @@ _thanks to noelle reid_
 https://massive-js.readthedocs.io/en/latest/  
 _thanks to jonathan junca_
 
+**Angular 2 free course**  
+http://courses.angularclass.com/courses/enrolled/angular-2-fundamentals  
+_thanks to moi_  
+
 ##Node.js
 **I did some review of node today and found netninja's node videos helpful. Most helpful for me were numbers 1, 3, 6, 7, 23, 24, 28, 29, and 30. https**  
 https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists  
