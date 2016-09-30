@@ -12,6 +12,10 @@ _thanks to spencer kekauoha_
 https://www.reddit.com/r/learnprogramming/comments/50l1yt/heres_a_list_of_430_free_online_programmingcs/  
 _thanks to moi_  
 
+**Free modern JS video course**  
+http://courses.angularclass.com/courses/enrolled/modern-javascript  
+_thanks to moi_  
+
 **JS Fundamentals slide presentation**  
 https://slides.com/jeremyrobertson/deck-4/live#/  
 _thanks to jeremy robertson_
