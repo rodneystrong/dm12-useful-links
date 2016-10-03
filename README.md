@@ -30,7 +30,11 @@ _thanks to moi_
 
 **Another explanation on prototypes, constructors, apply() and call()**  
 http://tobyho.com/2010/11/22/javascript-constructors-and/  
-_thanks to moi_
+_thanks to moi_  
+
+**Understanding the module pattern in JS**  
+http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html  
+_thanks to moi_  
 
 **Understanding Closures**  
 https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.id50rmmu6  
