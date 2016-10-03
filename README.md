@@ -20,6 +20,14 @@ _thanks to moi_
 https://slides.com/jeremyrobertson/deck-4/live#/  
 _thanks to jeremy robertson_
 
+**Speaking JS, free ebook on understanding JS if you already know programming**  
+http://speakingjs.com/es5/pr02.html  
+_thanks to moi_  
+
+**Exploring JS, free ebook on ES 2015 (es6)**  
+http://exploringjs.com/es6/ch_about-book.html#_audience-javascript-programmers  
+_thanks to moi_  
+
 **Another explanation on prototypes, constructors, apply() and call()**  
 http://tobyho.com/2010/11/22/javascript-constructors-and/  
 _thanks to moi_
