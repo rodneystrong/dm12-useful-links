@@ -12,6 +12,10 @@ _thanks to spencer kekauoha_
 https://www.reddit.com/r/learnprogramming/comments/50l1yt/heres_a_list_of_430_free_online_programmingcs/  
 _thanks to moi_  
 
+**Understanding Fat Arrow functions**  
+http://wesbos.com/arrow-functions/?utm_source=javascriptweekly&utm_medium=email  
+_thanks to moi_ 
+
 **Free modern JS video course**  
 http://courses.angularclass.com/courses/enrolled/modern-javascript  
 _thanks to moi_  
