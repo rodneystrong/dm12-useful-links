@@ -16,6 +16,10 @@ _thanks to moi_
 http://wesbos.com/arrow-functions/?utm_source=javascriptweekly&utm_medium=email  
 _thanks to moi_ 
 
+**Functional Programming in Javascript**  
+http://reactivex.io/learnrx/  
+_thanks to moi_  
+
 **Free modern JS video course**  
 http://courses.angularclass.com/courses/enrolled/modern-javascript  
 _thanks to moi_  
