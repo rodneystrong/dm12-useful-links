@@ -6,6 +6,10 @@ Link to all workshops + links to repos with solution code
 https://docs.google.com/spreadsheets/d/1KTOws8hycsFBgSVsRl1lr78og8B-dVkeXCtpf16f40E/edit?usp=sharing
 _thanks to spencer kekauoha_
 
+**CSS Clip path maker**  
+http://bennettfeely.com/clippy/  
+_thanks to moi_  
+
 ##Javascript
 
 **List of 430+ free online programming courses with assignments**  
