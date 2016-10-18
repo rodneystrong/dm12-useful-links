@@ -277,6 +277,10 @@ _thanks to brett caudill_
 https://github.com/jimeh/git-aware-prompt  
 _thanks to moi_
 
+**Bash command line shortcuts/alias**  
+https://jonsuh.com/blog/bash-command-line-shortcuts/  
+_thanks to moi_  
+
 **How developers are writing their own paychecks**  
 https://www.indiehackers.com/businesses  
 _thanks to moi_
