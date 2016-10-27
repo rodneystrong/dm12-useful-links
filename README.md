@@ -327,7 +327,7 @@ https://github.com/ngReact/ngReact
 ###dm10 ReactJS day 2  
 https://github.com/bsbeeks/react-day-2  
 
-ReactJS Day 3
+ReactJS Day 3  
 https://github.com/dckesler/react-day-three  
 ####mini project
 https://github.com/dckesler/reactweather 
