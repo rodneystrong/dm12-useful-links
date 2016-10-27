@@ -341,3 +341,15 @@ https://docs.google.com/presentation/d/1N4gSr_fDHrxNFVZA8JOYnX2mULfGhpQRbayspYBl
 
 ###dm10 ReactJS day 3  
 https://github.com/bsbeeks/react-day-3  
+
+**Workplace Ethics**  
+https://docs.google.com/presentation/d/1YyfKd6XaMDjJ8ce5rKt6CnO2Lp6s-V9wxrcx2Le30YE/edit#slide=id.g5bf891ae1_0_50  
+_thanks to jeremy_  
+
+**Productivity**  
+https://docs.google.com/presentation/d/1mQvxJatypq8VKjC7AT1rbAN15LBHxf10rNumrKC7rzQ/edit#slide=id.g5bf91c480_0_62  
+_thanks to jeremy_  
+
+**Software Development Lifecycle**  
+https://slides.com/jeremyrobertson/software-development-lifecycle/live#/14  
+_thanks to jeremy_  
