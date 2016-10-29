@@ -1,5 +1,8 @@
 # dm12-useful-links
 
+**Assessment Prep**  
+https://github.com/DevMountain/assessment-prep  
+_thanks to moi_  
 
 ##Advanced HTML/CSS special group:
 Link to all workshops + links to repos with solution code
