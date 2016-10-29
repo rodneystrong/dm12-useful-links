@@ -289,9 +289,9 @@ _thanks to moi_
 http://www.jibberjobber.com/login.php  
 _thanks to moi_
 
-JS Interview Review
+**JS Interview Review**  
 https://github.com/adam-s/js-interview-review  
-_thanks to moi_
+_thanks to moi_  
 
 **Gainlo, Mock interviews with engineers from Adobe, Microsoft, Cisco, etc**  
 http://www.gainlo.co/#!/  
