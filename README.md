@@ -10,7 +10,7 @@ _thanks to spencer kekauoha_
 http://bennettfeely.com/clippy/  
 _thanks to moi_  
 
-##Javascript
+##Javascript  
 
 **List of 430+ free online programming courses with assignments**  
 https://www.reddit.com/r/learnprogramming/comments/50l1yt/heres_a_list_of_430_free_online_programmingcs/  
