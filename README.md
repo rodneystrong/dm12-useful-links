@@ -164,17 +164,17 @@ https://twitter.com/vimgifs
 _thanks to moi_
 
 Shit ton of VIM links
-http://vimgolf.com/ 
-http://vimcasts.org/ 
-http://www.openvim.com/tutorial.html 
-http://usevim.com/ 
-http://designbytyping.com/ 
-_thanks to zac anger_
+http://vimgolf.com/   
+http://vimcasts.org/  
+http://www.openvim.com/tutorial.html   
+http://usevim.com/  
+http://designbytyping.com/  
+_thanks to zac anger_  
 
-##Authentication/Security/lulsec
+##Authentication/Security/lulsec  
 **Github gist on authentication via twitter**  
 https://gist.github.com/cahlan/530f839fbfb2737d0647  
-_thanks to jeremy robertson_
+_thanks to jeremy robertson_  
 
 ##Design stuff
 
@@ -182,9 +182,9 @@ _thanks to jeremy robertson_
 http://flatinspire.com/  
 _thanks to moi_  
 
-Pages with popular social media icons
-http://shalinguyen.github.io/socialicious/
-_thanks to moi_
+**Pages with popular social media icons**  
+http://shalinguyen.github.io/socialicious/  
+_thanks to moi_  
 
 https://simpleicons.org/
 _thanks to moi_
