@@ -196,6 +196,9 @@ _thanks to moi_
 https://www.codementor.io/design/tutorial/getting-started-with-wireframes  
 _thanks to jeremy_  
 
+http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices  
+_thanks to jeremy_  
+
 ##Random
 **Directory for all things Front End. Wow..**  
 https://frontend.directory  
