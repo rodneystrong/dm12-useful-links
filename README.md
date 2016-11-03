@@ -192,6 +192,10 @@ _thanks to moi_
 http://www.flaticon.com/
 _thanks to moi_
 
+**Wireframing**  
+https://www.codementor.io/design/tutorial/getting-started-with-wireframes  
+_thanks to jeremy_  
+
 ##Random
 **Directory for all things Front End. Wow..**  
 https://frontend.directory  
