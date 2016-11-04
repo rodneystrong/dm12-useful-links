@@ -217,6 +217,10 @@ http://rogerdudler.github.io/git-guide/
 https://www.git-tower.com/blog/git-cheat-sheet/  
 _thanks to jeremy roberston_  
 
+**Git + Github FreeCodeCamp videos**  
+https://www.youtube.com/watch?v=bbanTh2CoAY&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&index=5  
+_thanks to moi_  
+
 **Linux Bash Shell Cheat Sheet**  
 https://refcard.files.wordpress.com/2012/03/bcs_72_21.png  
 _thanks to jeremy robertson_  
