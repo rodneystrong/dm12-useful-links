@@ -261,7 +261,11 @@ _thanks to craig walker_
 
 **Site for technical interview prep, broken down by language**  
 http://www.thatjsdude.com/interview/  
-_thanks to john hicks_
+_thanks to john hicks_  
+
+**Win the coding interview**  
+https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.ksart8x3y  
+_thanks to moi_  
 
 **If you're looking for pretty and customizable (and EASY) alerts:**  
 http://alertifyjs.com/  
