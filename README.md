@@ -263,6 +263,10 @@ _thanks to craig walker_
 http://www.thatjsdude.com/interview/  
 _thanks to john hicks_  
 
+**Udacity free course on algorithms for interviews**  
+https://classroom.udacity.com/courses/ud513    
+_thanks to moi_  
+
 **Win the coding interview**  
 https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.ksart8x3y  
 _thanks to moi_  
