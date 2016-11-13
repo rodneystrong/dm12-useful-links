@@ -204,6 +204,10 @@ _thanks to jeremy_
 https://frontend.directory  
 _thanks to moi_
 
+**Useful links for front-end developers**  
+https://medium.com/web-development-zone/useful-docs-and-guides-for-front-end-developers-6a13fc395783#.o9i8v62jn  
+_thanks to moi_  
+
 **Learn to code**  
 http://ifoundthemeaningoflife.com/learntocode  
 _thanks to moi_  
