@@ -123,6 +123,10 @@ _thanks to craig walker_
 https://schemaverse.com/  
 _thanks to donovan hiland_
 
+**Install PSQL or PGAdmin**  
+https://docs.google.com/document/d/1HiR3K8uWXiLOcOD1puonmAjWVUJXzVl0wqkZ2_ywbdQ/edit  
+_thanks to jeremy_  
+
 ##ReactJS
 **ReactJS from learncode.academy**  
 https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b  
