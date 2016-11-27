@@ -371,9 +371,9 @@ https://github.com/bsbeeks/react-day-2
 
 ReactJS Day 3  
 https://github.com/dckesler/react-day-three  
-####mini project
+####mini project  
 https://github.com/dckesler/reactweather 
-####day project
+####day project  
 https://github.com/dckesler/dm12router  
 https://github.com/devmountain/react-emporium  
 https://github.com/devmountain/react-blog  
