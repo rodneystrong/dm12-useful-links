@@ -291,6 +291,10 @@ _thanks to moi_
 https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.ksart8x3y  
 _thanks to moi_  
 
+**Front-end job interview questions**  
+https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/README.md  
+_thanks to moi_  
+
 **If you're looking for pretty and customizable (and EASY) alerts:**  
 http://alertifyjs.com/  
 _thanks to candice humpherys
