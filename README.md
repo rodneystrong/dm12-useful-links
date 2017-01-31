@@ -323,6 +323,10 @@ _thanks to brett caudill_
 https://github.com/jimeh/git-aware-prompt  
 _thanks to moi_
 
+**How to customize colors of your Terminal in OS X (not just the prompt)**
+http://www.marinamele.com/2014/05/customize-colors-of-your-terminal-in-mac-os-x.html
+_thanks to moi_
+
 **Bash command line shortcuts/alias**  
 https://jonsuh.com/blog/bash-command-line-shortcuts/    
 _thanks to moi_  
