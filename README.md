@@ -135,6 +135,10 @@ _thanks to donovan hiland_
 https://docs.google.com/document/d/1HiR3K8uWXiLOcOD1puonmAjWVUJXzVl0wqkZ2_ywbdQ/edit  
 _thanks to jeremy_  
 
+**Convert CSV to SQL**
+http://convertcsv.com/csv-to-sql.htm
+_thanks to moi_
+
 ##ReactJS
 **ReactJS from learncode.academy**  
 https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b  
