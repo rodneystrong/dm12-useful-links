@@ -220,6 +220,10 @@ http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices
 _thanks to jeremy_  
 
 ##Random
+**Local Storage**
+https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/
+_thanks to moi_
+
 **Directory for all things Front End. Wow..**  
 https://frontend.directory  
 _thanks to moi_
