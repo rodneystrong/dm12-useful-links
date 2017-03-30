@@ -8,7 +8,7 @@ _thanks to moi_
 https://docs.google.com/document/d/10gjpjAOJPg8KxOwLb6zz0lRvjHo71TDhnc1_XMcHqxg/edit
 _thanks to jeremy_
 
-##Advanced HTML/CSS special group:
+## Advanced HTML/CSS special group:
 Link to all workshops + links to repos with solution code
 https://docs.google.com/spreadsheets/d/1KTOws8hycsFBgSVsRl1lr78og8B-dVkeXCtpf16f40E/edit?usp=sharing
 _thanks to spencer kekauoha_
@@ -17,7 +17,7 @@ _thanks to spencer kekauoha_
 http://bennettfeely.com/clippy/  
 _thanks to moi_  
 
-##Javascript  
+## Javascript  
 
 **List of 430+ free online programming courses with assignments**  
 https://www.reddit.com/r/learnprogramming/comments/50l1yt/heres_a_list_of_430_free_online_programmingcs/  
@@ -75,7 +75,7 @@ _thanks to moi_
 https://www.sitepoint.com/introduction-gulp-js/  
 _thanks to moi_
 
-##Angular
+## Angular
 **AngularJS Best Practices: Directory Structure**  
 https://scotch.io/tutorials/angularjs-best-practices-directory-structure  
 _thanks to noelle reid_
@@ -173,10 +173,14 @@ _thanks to jeremy roberston_
 https://regexone.com/  
 _thanks to cameron gale_
 
-##VIM
+## VIM
 
 Vim Adventures
 http://vim-adventures.com/
+_thanks to moi_
+
+Vim pacman
+https://github.com/jmoon018/PacVim
 _thanks to moi_
 
 Vim Gifs. Using a file format from the 80s to explain a text editor from the 70s.
